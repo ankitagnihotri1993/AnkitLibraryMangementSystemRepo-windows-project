@@ -1,0 +1,21 @@
+C:\window projects\LMS\LMS\LMSDAL\bin\Debug\LMSDAL.dll.config
+C:\window projects\LMS\LMS\LMSDAL\bin\Debug\LMSDAL.dll
+C:\window projects\LMS\LMS\LMSDAL\bin\Debug\LMSDAL.pdb
+C:\window projects\LMS\LMS\LMSDAL\obj\Debug\LMSDAL.csproj.CoreCompileInputs.cache
+C:\window projects\LMS\LMS\LMSDAL\obj\Debug\LMSDAL.dll
+C:\window projects\LMS\LMS\LMSDAL\obj\Debug\LMSDAL.pdb
+C:\window projects\LMS\LMS\LMSDAL\obj\Debug\LMSDAL.csprojAssemblyReference.cache
+E:\window projects\LMS\LMS\LMSDAL\bin\Debug\LMSDAL.dll.config
+E:\window projects\LMS\LMS\LMSDAL\bin\Debug\LMSDAL.dll
+E:\window projects\LMS\LMS\LMSDAL\bin\Debug\LMSDAL.pdb
+E:\window projects\LMS\LMS\LMSDAL\obj\Debug\LMSDAL.csprojAssemblyReference.cache
+E:\window projects\LMS\LMS\LMSDAL\obj\Debug\LMSDAL.csproj.CoreCompileInputs.cache
+E:\window projects\LMS\LMS\LMSDAL\obj\Debug\LMSDAL.dll
+E:\window projects\LMS\LMS\LMSDAL\obj\Debug\LMSDAL.pdb
+E:\Project\LMS\LMS\LMSDAL\bin\Debug\LMSDAL.dll.config
+E:\Project\LMS\LMS\LMSDAL\bin\Debug\LMSDAL.dll
+E:\Project\LMS\LMS\LMSDAL\bin\Debug\LMSDAL.pdb
+E:\Project\LMS\LMS\LMSDAL\obj\Debug\LMSDAL.csprojAssemblyReference.cache
+E:\Project\LMS\LMS\LMSDAL\obj\Debug\LMSDAL.csproj.CoreCompileInputs.cache
+E:\Project\LMS\LMS\LMSDAL\obj\Debug\LMSDAL.dll
+E:\Project\LMS\LMS\LMSDAL\obj\Debug\LMSDAL.pdb

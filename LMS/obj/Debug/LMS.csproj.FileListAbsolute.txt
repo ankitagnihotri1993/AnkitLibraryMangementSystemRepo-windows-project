@@ -1,0 +1,56 @@
+C:\window projects\LMS\LMS\LMS\bin\Debug\LMS.exe.config
+C:\window projects\LMS\LMS\LMS\bin\Debug\LMS.exe
+C:\window projects\LMS\LMS\LMS\bin\Debug\LMS.pdb
+C:\window projects\LMS\LMS\LMS\bin\Debug\LMSDAL.dll
+C:\window projects\LMS\LMS\LMS\bin\Debug\LMSDAL.pdb
+C:\window projects\LMS\LMS\LMS\bin\Debug\LMSDAL.dll.config
+C:\window projects\LMS\LMS\LMS\obj\Debug\LMS.csprojAssemblyReference.cache
+C:\window projects\LMS\LMS\LMS\obj\Debug\LMS.guestForm.resources
+C:\window projects\LMS\LMS\LMS\obj\Debug\LMS.MainForm.resources
+C:\window projects\LMS\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\window projects\LMS\LMS\LMS\obj\Debug\LMS.studentForm.resources
+C:\window projects\LMS\LMS\LMS\obj\Debug\LMS.TeacherForm.resources
+C:\window projects\LMS\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+C:\window projects\LMS\LMS\LMS\obj\Debug\LMS.exe.licenses
+C:\window projects\LMS\LMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+C:\window projects\LMS\LMS\LMS\obj\Debug\LMS.csproj.CopyComplete
+C:\window projects\LMS\LMS\LMS\obj\Debug\LMS.exe
+C:\window projects\LMS\LMS\LMS\obj\Debug\LMS.pdb
+E:\window projects\LMS\LMS\LMS\bin\Debug\LMS.exe.config
+E:\window projects\LMS\LMS\LMS\bin\Debug\LMS.exe
+E:\window projects\LMS\LMS\LMS\bin\Debug\LMS.pdb
+E:\window projects\LMS\LMS\LMS\bin\Debug\LMSDAL.dll
+E:\window projects\LMS\LMS\LMS\bin\Debug\LMSDAL.pdb
+E:\window projects\LMS\LMS\LMS\bin\Debug\LMSDAL.dll.config
+E:\window projects\LMS\LMS\LMS\obj\Debug\LMS.csprojAssemblyReference.cache
+E:\window projects\LMS\LMS\LMS\obj\Debug\LMS.guestForm.resources
+E:\window projects\LMS\LMS\LMS\obj\Debug\LMS.MainForm.resources
+E:\window projects\LMS\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+E:\window projects\LMS\LMS\LMS\obj\Debug\LMS.studentForm.resources
+E:\window projects\LMS\LMS\LMS\obj\Debug\LMS.TeacherForm.resources
+E:\window projects\LMS\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+E:\window projects\LMS\LMS\LMS\obj\Debug\LMS.exe.licenses
+E:\window projects\LMS\LMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+E:\window projects\LMS\LMS\LMS\obj\Debug\LMS.csproj.CopyComplete
+E:\window projects\LMS\LMS\LMS\obj\Debug\LMS.exe
+E:\window projects\LMS\LMS\LMS\obj\Debug\LMS.pdb
+E:\window projects\LMS\LMS\LMS\obj\Debug\LMS.UserForm.resources
+E:\Project\LMS\LMS\LMS\bin\Debug\LMS.exe.config
+E:\Project\LMS\LMS\LMS\bin\Debug\LMS.exe
+E:\Project\LMS\LMS\LMS\bin\Debug\LMS.pdb
+E:\Project\LMS\LMS\LMS\bin\Debug\LMSDAL.dll
+E:\Project\LMS\LMS\LMS\bin\Debug\LMSDAL.pdb
+E:\Project\LMS\LMS\LMS\bin\Debug\LMSDAL.dll.config
+E:\Project\LMS\LMS\LMS\obj\Debug\LMS.csprojAssemblyReference.cache
+E:\Project\LMS\LMS\LMS\obj\Debug\LMS.guestForm.resources
+E:\Project\LMS\LMS\LMS\obj\Debug\LMS.MainForm.resources
+E:\Project\LMS\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+E:\Project\LMS\LMS\LMS\obj\Debug\LMS.studentForm.resources
+E:\Project\LMS\LMS\LMS\obj\Debug\LMS.TeacherForm.resources
+E:\Project\LMS\LMS\LMS\obj\Debug\LMS.UserForm.resources
+E:\Project\LMS\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+E:\Project\LMS\LMS\LMS\obj\Debug\LMS.exe.licenses
+E:\Project\LMS\LMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+E:\Project\LMS\LMS\LMS\obj\Debug\LMS.csproj.CopyComplete
+E:\Project\LMS\LMS\LMS\obj\Debug\LMS.exe
+E:\Project\LMS\LMS\LMS\obj\Debug\LMS.pdb
